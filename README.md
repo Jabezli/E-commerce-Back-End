@@ -32,11 +32,11 @@
 
 ## ⚖️ License
 
-Please visit [License link](https://choosealicense.com/licenses/mit/)
+<sub>Please visit [License link](https://choosealicense.com/licenses/mit/)</sub>
 
 ## 🏗️ Contributing
 
-If you want to share any good ideas, please feel free to leave comments under ISSUES.
+<sub>If you want to share any good ideas, please feel free to leave comments under ISSUES.</sub>
 
 ## 📏 Tests
 
@@ -44,4 +44,4 @@ If you want to share any good ideas, please feel free to leave comments under IS
 
 ## ❓Questions
 
-<sub>Feel free to submit your questions under the ISSUES of the repository [(Click Here to Visit My Github Page)](https://github.com/jabezli)
+<sub>Feel free to submit your questions under the ISSUES of the repository [(Click Here to Visit My Github Page)](https://github.com/jabezli)</sub>
